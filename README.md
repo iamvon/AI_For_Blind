@@ -23,7 +23,7 @@
 - [Features](#features)
 - [Feedback](#feedback)
 - [Team](#team)
-- [Running/Build Process](#Running/Build Process)
+- [Running/Build Process](#Running/Build)
 - [Feedback/Sponsors](#Feedback/Sponsors)
 
 ## Introduction
@@ -59,7 +59,7 @@ There are 2 main features on this app:
 - Nguyen Quang Huy: [@quanghuynguyen1902](https://github.com/quanghuynguyen1902)
 - Tran Quang Huy
 
-## Running/Build Process
+## Running/Build
 
 - Backend: https://github.com/iamvon/Vision_For_Blind/tree/master/Backend/AI
 - iOS: https://github.com/iamvon/Vision_For_Blind/tree/master/App/iOS/BlindVision (use Workspace file)
