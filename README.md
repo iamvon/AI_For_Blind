@@ -47,7 +47,7 @@ There are 2 main features on this app:
 
 
 
-![](Demo.gif)
+![](Test.gif)
 
 
 
